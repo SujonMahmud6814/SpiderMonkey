@@ -1,0 +1,110 @@
+[
+    {
+        "key": 1,
+        "name": "Sujon",
+        "img": "./images/sujon.jpg",
+        "age": 26,
+        "designation": "CEO & Founder",
+        "district": "Kushita",
+        "salary": 130000
+    },
+    {
+        "key": 2,
+        "name": "Soykot",
+        "img": "./images/soykot.jpg",
+        "age": 27,
+        "designation": "Product Manager",
+        "district": "Comilla",
+        "salary": 120000
+    },
+    {
+        "key": 3,
+        "name": "Shuvo",
+        "img": "./images/shuvo.jpg",
+        "age": 25,
+        "designation": "Advisor",
+        "district": "Pabna",
+        "salary": 110000
+    },
+    {
+        "key": 4,
+        "name": "Sadi",
+        "img": "./images/sadi.jpg",
+        "age": 20,
+        "designation": "Chief Operating Officer",
+        "district": "Meherpur",
+        "salary": 100000
+    },
+    {
+        "key": 5,
+        "name": "Sawon",
+        "img": "./images/sawon.jpg",
+        "age": 23,
+        "designation": "Product Designer",
+        "district": "Rangpur",
+        "salary": 90000
+    },
+    {
+        "key": 6,
+        "name": "Asad",
+        "img": "./images/asad.jpg",
+        "age": 28,
+        "designation": "Product Manager",
+        "district": "Cox Bazar",
+        "salary": 80000
+    },
+    {
+        "key": 7,
+        "name": "Masud",
+        "img": "./images/masud.jpg",
+        "age": 25,
+        "designation": "Senior Software Developer",
+        "district": "Dhaka",
+        "salary": 80000
+    },
+    {
+        "key": 8,
+        "name": "Shamsul",
+        "img": "./images/shamsul.jpg",
+        "age": 26,
+        "designation": "Content Editor",
+        "district": "Rajshahi",
+        "salary": 70000
+    },
+    {
+        "key": 9,
+        "name": "Jamirul",
+        "img": "./images/jamirul.jpg",
+        "age": 27,
+        "designation": "Software Engineer",
+        "district": "Rajbari",
+        "salary": 70000
+    },
+    {
+        "key": 10,
+        "name": "Saiful",
+        "img": "./images/saiful.jpg",
+        "age": 26,
+        "designation": "Web Developer",
+        "district": "Sirajganj",
+        "salary": 60000
+    },
+    {
+        "key": 11,
+        "name": "Taufiq",
+        "img": "./images/taufiq.jpg",
+        "age": 24,
+        "designation": "SQA Engineer",
+        "district": "Naugoan",
+        "salary": 60000
+    },
+    {
+        "key": 12,
+        "name": "Sourov",
+        "img": "./images/sourov.jpg",
+        "age": 24,
+        "designation": "Android Developer",
+        "district": "Barishal",
+        "salary": 50000
+    }
+]
